@@ -10,6 +10,16 @@ Tambien se reasignaran valores almacenados en las otras variables y el resto se 
 - El resto se reasignan con datos hard-coded
 - Mirar los videos de java hasta el **Video 4**
 
+## Tipos de datos a usar (declaraciones):
+- Int
+- Float
+- Double
+- Char
+- Byte
+- Long
+- Boolean
+- String
+
 ## El Equipo está compuesto por dos personas:
 **Hector Espinosa Luque Y Julian David Caballero.**
 
