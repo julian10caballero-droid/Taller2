@@ -18,7 +18,7 @@ Tambien se reasignaran valores almacenados en las otras variables y el resto se 
 - Byte
 - Long
 - Boolean
-- String
+- Strin
 
 ## Diapositiva (WIP):
 
