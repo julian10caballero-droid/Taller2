@@ -14,7 +14,7 @@ Tambien se reasignaran valores almacenados en las otras variables y el resto se 
 - Int
 - Float
 - Double
-- Char
+- Cha
 - Byte
 - Long
 - Boolean
