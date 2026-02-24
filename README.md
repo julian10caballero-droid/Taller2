@@ -24,6 +24,14 @@ Tambien se reasignaran valores almacenados en las otras variables y el resto se 
 
 https://www.canva.com/design/DAHB3rgdphI/5f_NDRIXXkEmvwuCdczU6w/edit?utm_content=DAHB3rgdphI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+## Como cambiar el nombre y correo de los commits
+- Cambiar nombre y correo para FUTUROS commits
+  git config --global user.name "Tu Nuevo Nombre"
+  git config --global user.email "tunuevo@email.com"
+- Cambiar nombre y correo en commits ANTIGUOS
+  git commit --amend --author="Tu Nuevo Nombre <tunuevo@email.com>"
+  git push --force
+
 ## El Equipo está compuesto por dos personas:
 **Hector Espinosa Luque Y Julian David Caballero.**
 
