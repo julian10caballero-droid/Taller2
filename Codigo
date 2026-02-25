@@ -5,7 +5,7 @@ public class TallerJava {
         
         
         byte edad = 20;
-        short anio = 2026;
+        short año = 2026;
         int idUsuario = 5500;
         long poblacionMundial = 8000000000L; 
         int semestre = 1;
@@ -41,7 +41,7 @@ public class TallerJava {
         semestre = edad;                
 
         edad = 25;
-        anio = 2027;
+        año = 2027;
         poblacionMundial = 9000000000L;
         precioPan = 2.10f;
         pi = 3.14;
