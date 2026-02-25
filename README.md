@@ -2,9 +2,13 @@
 
 Este proyecto mostrara un programa en java que contara con 20 declaraciones de variables de diferente tipo con datos compatibles.
 Tambien se reasignaran valores almacenados en las otras variables y el resto se reasignaran con datos Hard-Coded.
+Tambien incluye el taller de ecuaciónes y condiciones adicionales hechos previamente en clase.
 
 ## TO-DO
 - Mirar los videos de java hasta el **Video 4**
+- Subir el programa con las ecuaciónes
+- Subir fotos de ecuaciones
+- Subir los 8 condicionales con su evaluación
 
 ## Tipos de datos a usar (declaraciones):
 - Int
