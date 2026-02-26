@@ -2,7 +2,8 @@
 
 Este proyecto mostrara un programa en java que contara con 20 declaraciones de variables de diferente tipo con datos compatibles.
 Tambien se reasignaran valores almacenados en las otras variables y el resto se reasignaran con datos Hard-Coded.
-Tambien incluye el taller de ecuaciónes y condiciones adicionales hechos previamente en clase.
+Tambien incluye el taller de ecuaciónes, con ambas ecuaciónes proporcionadas resueltas en papel y en VisualCore
+Y por ultimo las condiciones adicionales hechas en clase.
 
 ## TO-DO
 - Mirar los videos de java hasta el **Video 4**
