@@ -5,7 +5,7 @@ public class TallerJava {
         
         
         byte edad = 20;
-        short año = 2026;
+        short anio = 2026;
         int idUsuario = 5500;
         long poblacionMundial = 8000000000L; 
         int semestre = 1;
@@ -34,14 +34,14 @@ public class TallerJava {
         String curso = "Java";
 
         
-        idUsuario = año;               
+        idUsuario = anio;               
         temperatura = precioPan;       
         nombre = ciudad;                
         notaFinal = estatura;           
         semestre = edad;                
 
         edad = 25;
-        año = 2027;
+        anio = 2027;
         poblacionMundial = 9000000000L;
         precioPan = 2.10f;
         pi = 3.14;
@@ -60,4 +60,5 @@ public class TallerJava {
         System.out.println("¡Taller ejecutado correctamente!");
         System.out.println(inicial + " " +grupo + " " +seccion+ " " +ciudad+ " " +curso);
     }
+
 }
