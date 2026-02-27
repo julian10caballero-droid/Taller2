@@ -5,12 +5,6 @@ Tambien se reasignaran valores almacenados en las otras variables y el resto se 
 Tambien incluye el taller de ecuaciónes, con ambas ecuaciónes proporcionadas resueltas en papel y en VisualCore
 Y por ultimo las condiciones adicionales hechas en clase.
 
-## TO-DO
-- Mirar los videos de java hasta el **Video 4**
-- Subir el programa con las ecuaciónes
-- Subir fotos de ecuaciones
-- Subir los 8 condicionales con su evaluación
-
 ## Tipos de datos a usar (declaraciones):
 - Int
 - Float
