@@ -7,8 +7,8 @@ public class TalleEcuaciones {
         Scanner input = new Scanner(System.in);
 
         System.out.println("--- Taller de Ecuaciones ---");
-        System.out.println("1. Ecuación 1");
-        System.out.println("2. Ecuación 2");
+        System.out.println("1. Ecuacion 1");
+        System.out.println("2. Ecuacion 2");
         System.out.print("Seleccione una opción (1 o 2): ");
         
         int choice = input.nextInt();
@@ -28,7 +28,7 @@ public class TalleEcuaciones {
                 double num = (3 * x) / (1 + (3 * x) / (3 * Math.pow(z, 2) + 2));
                 double den = 1 / (1 / (1 + z) + 3 * Math.pow(x, 2) + 2 * z + 3);
                 y = num / den;
-                System.out.println("\nResultado Ecuación 1: y = " + y);
+                System.out.println("\nResultado Ecuacion 1: y = " + y);
             } else {
                 // Ecuación 2
                 double partA = (Math.pow(x, 2) + 3 * z + 2) / (2 + 1 / (1 + 2 * z));
@@ -39,21 +39,21 @@ public class TalleEcuaciones {
 
                 double partB = numB / denB;
                 y = partA + partB;
-                System.out.println("\nResultado Ecuación 2: y = " + y);
+                System.out.println("\nResultado Ecuacion 2: y = " + y);
             }
 
-            System.out.println("\n--- Evaluación de 8 Condiciones ---");
+            System.out.println("\n--- Evaluacion de 8 Condiciones ---");
             System.out.println("1. ¿X es mayor que Z? -> " + (x > z));
             System.out.println("2. ¿X es igual a Z? -> " + (x == z));
             System.out.println("3. ¿El resultado Y es positivo? -> " + (y > 0));
             System.out.println("4. ¿X es menor o igual a 0? -> " + (x <= 0));
             System.out.println("5. ¿Z es mayor a 100? -> " + (z > 100));
-            System.out.println("6. ¿Y es un número finito? -> " + Double.isFinite(y));
+            System.out.println("6. ¿Y es un numero finito? -> " + Double.isFinite(y));
             System.out.println("7. ¿La suma de X + Z es mayor que Y? -> " + ((x + z) > y));
             System.out.println("8. ¿X es diferente de Z? -> " + (x != z));
 
         } else {
-            System.out.println("Opción no válida. Reinicie el programa y elija 1 o 2.");
+            System.out.println("Opcion no volida. Reinicie el programa y elija 1 o 2.");
         }
 
         System.out.println("\nPrograma finalizado.");
